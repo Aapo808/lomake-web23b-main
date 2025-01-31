@@ -1,0 +1,24 @@
+{
+  "palautteet": [
+    {
+      "nimi": "aa",
+      "email": "moikkamoi@gmail.com",
+      "palaute": "testi 2"
+    },
+    {
+      "nimi": "aa",
+      "email": "moikkamoi@gmail.com",
+      "palaute": "testi 2"
+    },
+    {
+      "nimi": "boo",
+      "email": "hooo@gmail.com",
+      "palaute": "kissa"
+    },
+    {
+      "nimi": "boo",
+      "email": "hooo@gmail.com",
+      "palaute": "kissa"
+    }
+  ]
+}
