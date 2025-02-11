@@ -1,24 +1,30 @@
 {
   "palautteet": [
     {
-      "nimi": "aa",
-      "email": "moikkamoi@gmail.com",
-      "palaute": "testi 2"
-    },
-    {
-      "nimi": "aa",
-      "email": "moikkamoi@gmail.com",
-      "palaute": "testi 2"
-    },
-    {
-      "nimi": "boo",
+      "nimi": "dfdfd",
       "email": "hooo@gmail.com",
-      "palaute": "kissa"
+      "palaute": "asdasa"
     },
     {
-      "nimi": "boo",
+      "nimi": "fff",
       "email": "hooo@gmail.com",
-      "palaute": "kissa"
-    }
+      "palaute": "ffffffff"
+    },
+    {
+      "nimi": "Moi",
+      "email": "moikkamoi@gmail.com",
+      "palaute": "uaorojfepk"
+    },
+    {
+      "nimi": "moi minttu",
+      "email": "aapo@posti.com",
+      "palaute": "aloe vera"
+    },
+    {
+      "nimi": "aa",
+      "email": "hooo@gmail.com",
+      "palaute": "moi aapo"
+    },
+    {}
   ]
 }
